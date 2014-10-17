@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[maj:home|Door43 (maj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-maj|d43-maj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-maj/archive/master.zip|d43-maj.zip]]
+
+**Recent Changes**
+{{changes>ns = maj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/maj|Ethnologue data]]
+
